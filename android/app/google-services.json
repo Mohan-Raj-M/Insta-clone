@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109152499375",
+    "project_id": "swelearning-2e03b",
+    "storage_bucket": "swelearning-2e03b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109152499375:android:d345f8461b51d50ed7865a",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109152499375-99clvpp800eprpb9h0kn1741r9o8l0ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWRy9hwli9kCzeDX7vCeoeP7d0c1oAoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109152499375-99clvpp800eprpb9h0kn1741r9o8l0ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
